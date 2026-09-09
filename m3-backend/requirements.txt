@@ -1,0 +1,5 @@
+fastapi[standard]
+pytest
+httpx
+python-dotenv
+PyJWT
